@@ -18,9 +18,6 @@
 <img height="150px" />
 
 
-
-[![Bülent's github activity graph](https://activity-graph.herokuapp.com/graph?username=bulentisler48&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=bulentisler48&theme=github&count_private=true)
-
 ## Full Stack Developer (Contract Only – IR35 Outside)
 
 Tech-savvy and solution-oriented full stack developer with hands-on experience developing wide-range of web and mobile based
