@@ -9,10 +9,6 @@
 
 <h1 align="center">
   <a href="https://wa.me/0041764115359" target="_blank"><img src="./img/whatsapp.svg" height="25px" style="width: -webkit-fill-"/></a>
-  <a href="https://join.skype.com/invite/cLoBSzxGYKtS" target="_blank"><img src="./img/skype.svg" height="25px" style="width: -webkit-fill-"/></a>
-  <a href="https://twitter.com/s4birli" target="_blank"><img src="./img/twitter.svg" height="25px" style="width: -webkit-fill-"/></a>
-  <a href="https://linkedin.com/in/s4birli" target="_blank"><img src="./img/linkedIn.svg" height="25px" style="width: -webkit-fill-"/></a>
-  <a href="https://instagram.com/s4birli" target="_blank"><img src="./img/instagram.svg" height="25px" style="width: -webkit-fill-"/></a>
 </h1>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bulentisler48.bulentisler48" />
 <img align="right" src="https://img.shields.io/github/followers/s4birli?label=Follow&style=social" />
@@ -23,7 +19,7 @@
 
 
 
-[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=s4birli&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=s4birli&theme=github&count_private=true)
+[![Bülent's github activity graph](https://activity-graph.herokuapp.com/graph?username=bulentisler48&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=bulentisler48&theme=github&count_private=true)
 
 ## Full Stack Developer (Contract Only – IR35 Outside)
 
